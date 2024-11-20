@@ -23,3 +23,11 @@ Website Application https://www.saucedemo.com with login user interface
 Use Gherkin BDD cucumber
 
 Command to run  "robot web_test.robot"
+
+# Automation Mobile Android
+
+Mobile Application in asset/android folder
+
+Use Gherkin BDD cucumber
+
+Command to run  "robot android_test.robot"
